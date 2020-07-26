@@ -121,6 +121,7 @@ If you want to add to the list, [here's how](CONTRIBUTING.md).
     - [0xbitcoin-gpuminer GitHub repo](https://github.com/azlehria/0xbitcoin-gpuminer)
 - ### Pools
 - [Mike.rs](http://mike.rs/)
+- [MVis](https://mvis.ca/)
 - [Tosti](http://tosti.ro/)
 - [Token Mining Pool](http://tokenminingpool.com/)
 
